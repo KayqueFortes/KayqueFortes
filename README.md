@@ -1,13 +1,11 @@
 <h2 align="center">Olá, meu nome é Kayque 👋!</h2>
 
-###
-
 <table width="100%" >
   <tr>
     <td width ="700vw" align ="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=KayqueFortes&show_icons=true&theme=radical&count_private=true" alt="stats" height="160"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=KayqueFortes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueFortes&layout=compact&theme=radical&count_private=true" alt="langs" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueFortes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
     </td>
     <td  width ="350vw" align ="center" >
       <img src="https://media1.tenor.com/m/u0PAlWivM3AAAAAd/gi%C3%B1o-rick-y-morty.gif" width="90%" />
