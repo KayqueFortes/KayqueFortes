@@ -3,9 +3,9 @@
 <table width="100%" >
   <tr>
     <td width ="700vw" align ="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=KayqueFortes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=KayqueFortes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150"/>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueFortes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueFortes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150"/>
     </td>
     <td  width ="350vw" align ="center" >
       <img src="https://media1.tenor.com/m/u0PAlWivM3AAAAAd/gi%C3%B1o-rick-y-morty.gif" width="90%" />
